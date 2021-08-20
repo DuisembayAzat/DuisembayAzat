@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DuisembayAzat
-- 👀 I’m interested in IOS development
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on junior ios developer
+- 👀 I’m interested in Web
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on junior React JS developer
 - 📫 How to reach me aduisembay@nu.edu.kz
 
 <!---
