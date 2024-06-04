@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuisembayAzat
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning PHP and Laravel
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me aduisembay@nu.edu.kz
 
